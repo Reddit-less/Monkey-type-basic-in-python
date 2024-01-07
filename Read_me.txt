@@ -1,0 +1,1 @@
+Please run this in an IDE to see final score (wpm)
